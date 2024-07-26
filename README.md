@@ -16,7 +16,7 @@
 </p>
 <!--- <img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg" alt="html" style="width: 150px"/></div> -->
 
-[![Spotify](https://novatorem-git-master-ngocnguyen43.vercel.app/api/spotify)](https://open.spotify.com/user/315fwfhir5nz7zryhwvod5qz7osy)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315fwfhir5nz7zryhwvod5qz7osy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315fwfhir5nz7zryhwvod5qz7osy&redirect=true)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocnguyen43&compact_layout=true) -->
