@@ -25,7 +25,7 @@
 ###
 <!--- <img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg" alt="html" style="width: 150px"/></div> -->
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315fwfhir5nz7zryhwvod5qz7osy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315fwfhir5nz7zryhwvod5qz7osy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7300a8&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315fwfhir5nz7zryhwvod5qz7osy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315fwfhir5nz7zryhwvod5qz7osy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7300a8&bar_color_cover=false)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocnguyen43&compact_layout=true) -->
 <h3 align="left">Languages and Tools:</h3>
 
