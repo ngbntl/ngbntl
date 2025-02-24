@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <p>Profile Viewer:</p>
+  <p>Profile Views:</p>
   <img src="https://profile-counter.glitch.me/ngbntl/count.svg?"  />
   
 </div>
